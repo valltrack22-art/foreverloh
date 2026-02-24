@@ -1,43 +1,20 @@
-html {
-font-sice: 10px;
-font-family:  "Bpmf Huninn", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-}
+<h1>Jane Doe</h1>
+<div class="job-title">Web Developer</div>
+<p>
+  Far far away, behind the word mountains, far from the countries Vokalia and
+  Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
+  right at the coast of the Semantics, a large language ocean.
+</p>
 
-img {
-  display: block;
-  margin: 0 auto;
-}
+<p>
+  A small river named Duden flows by their place and supplies it with the
+  necessary regelialia. It is a paradisematic country, in which roasted parts of
+  sentences fly into your mouth.
+</p>
 
-h1 {
-  margin: 0;
-  padding: 20px 0;
-  color: #000321;
-  text-shadow: 3px 3px 1px black;
-}
-
-body {
-  width: 600px;
-  margin: 0 auto;
-  background-color:#242557;
-  padding: 0 20px 20px 20px;
-  border: 5px solid black;
-}
-
-html {
-  background-color: #00001f;
-}
-
-h1 {
-  font-size: 60px;
-  text-align: center;
-  border: 5px solid black;
-}
-
-p,
-li {
-  font-size: 16px;
-  line-height: 2;
-  letter-spacing: 1px;
-}
+<h2>Contact information</h2>
+<ul>
+  <li>Email: <a href="mailto:jane@example.com">jane@example.com</a></li>
+  <li>Web: <a href="http://example.com">http://example.com</a></li>
+  <li>Tel: <a href="tel:12345678">123 45678</a></li>
+</ul>
