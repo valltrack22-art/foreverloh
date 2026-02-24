@@ -6,6 +6,13 @@ font-family: calm;
   font-style: normal;
 }
 
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #00539f;
+  text-shadow: 3px 3px 1px black;
+}
+
 body {
   width: 600px;
   margin: 0 auto;
