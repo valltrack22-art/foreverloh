@@ -5,6 +5,11 @@ font-family:  "Bpmf Huninn", sans-serif;
   font-style: normal;
 }
 
+img {
+  display: block;
+  margin: 0 auto;
+}
+
 h1 {
   margin: 0;
   padding: 20px 0;
