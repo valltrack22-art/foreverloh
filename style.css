@@ -5,9 +5,18 @@ html {
 h1 {
   color: blue;
 }
+
 p,
 li {
   color: green;
+}
+
+li em {
+  color: rebeccapurple;
+}
+
+h1 + p {
+  font-size: 200%;
 }
 
 .special {
