@@ -2,6 +2,9 @@ html {
   background-color: white;
 }
 
+h1 {
+  color: blue;
+
 body {
   color: #efefef;
   font: 1.2em / 1.5 system-ui;
