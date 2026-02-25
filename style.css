@@ -1,13 +1,3 @@
-
-h1 + p {
-  font-size: 200%;
-}
-
-.special {
-  color: orange;
-  font-weight: bold;
-}
-
-html{
-  color: red;
+p {
+  colot: red;
 }
