@@ -9,3 +9,8 @@ p,
 li {
   color: green;
 }
+
+.special {
+  color: black;
+  font-weight: bold;
+}
