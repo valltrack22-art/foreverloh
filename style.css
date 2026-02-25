@@ -7,3 +7,7 @@ h1 + p {
   color: orange;
   font-weight: bold;
 }
+
+html{
+  color: red;
+}
