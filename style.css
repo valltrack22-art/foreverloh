@@ -8,5 +8,5 @@ div#spesial {
 }
 
 span[class*="stop"] {
-  background-color: red;
+  background-color: green;
 }
