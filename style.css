@@ -1,3 +1,7 @@
 .spesial {
   backgrount-color: yellow;
 }
+
+.alert {
+  border: 2px solid red;
+}
