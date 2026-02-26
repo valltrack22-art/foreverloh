@@ -6,6 +6,6 @@ div, h2, h2#spesial {
   border: 2px solid red;
 }
 
-.alert + stop {
+.alert {
   backgrount-color: blue;
 }
