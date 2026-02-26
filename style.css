@@ -4,6 +4,9 @@ div, h2, h2#spesial {
 
 .alert {
   border: 2px solid red;
-  background-color: red;
+  
 }
 
+span[class*="stop"] {
+  background-color: red;
+}
