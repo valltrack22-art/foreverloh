@@ -5,3 +5,7 @@
 .alert {
   border: 2px solid red;
 }
+
+p [class="alert"] {
+  backgrount-colot: red;
+}
