@@ -6,6 +6,6 @@
   border: 2px solid red;
 }
 
-p[class="alert"] {
+span[class="alert"] {
   backgrount-colot: red;
 }
