@@ -6,6 +6,6 @@ h2#spesial {
   border: 2px solid red;
 }
 
-span[class="alert"] {
+.alert {
   backgrount-colot: red;
 }
