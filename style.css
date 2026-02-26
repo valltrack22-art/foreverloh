@@ -6,6 +6,6 @@ h2#spesial {
   border: 2px solid red;
 }
 
-.alert {
-  backgrount-colot: red;
+.alert + stop {
+  backgrount-colot: blue;
 }
