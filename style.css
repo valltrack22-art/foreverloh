@@ -10,3 +10,7 @@ div h1 h2#spesial {
 span[class*="stop"] {
   background-color: green;
 }
+
+span[class*="go"] {
+  background-color: red;
+}
