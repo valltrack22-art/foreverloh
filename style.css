@@ -1,10 +1,2 @@
-a { color: orange }
-a:visited { color: green; }
-a:hover { text-decoration: none; }
+div p::last-child { color: red; }
 
-.container:first-child { font-size: 150%; }
-.container:first-line { color: red; }
-
-tbody:tr:last-child {
-      background-color: #333333;
-}
