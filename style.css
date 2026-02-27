@@ -13,3 +13,7 @@ a:hover {
 .container:first-child {
   font-size: 150%;
 }
+
+.container:first-line {
+  color: red;
+}
