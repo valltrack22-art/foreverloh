@@ -17,3 +17,7 @@ a:hover {
 .container:first-line {
   color: red;
 }
+
+tr:hr:last-child {
+  background-clor: #333;
+}
