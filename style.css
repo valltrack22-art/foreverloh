@@ -1,2 +1,3 @@
-div p::after { color: red; }
-
+p:nth-of-type(2n) {
+  color: blue;
+}
