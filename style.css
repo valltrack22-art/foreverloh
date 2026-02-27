@@ -1,3 +1,5 @@
-.container p:first-child {
+.container  {
   color: red;
 }
+p:nth-of-type(1) {
+  font-weight: bold;
