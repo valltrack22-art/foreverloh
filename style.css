@@ -9,3 +9,7 @@ a:visited {
 a:hover {
   text-decoration: none;
 }
+
+article p:first-child {
+  font-size: 150%;
+}
