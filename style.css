@@ -18,6 +18,6 @@ a:hover {
   color: red;
 }
 
-tr:td:last-child {
+td:last-child {
   background-clor: #333;
 }
