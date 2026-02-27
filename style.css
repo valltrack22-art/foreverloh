@@ -1,22 +1,9 @@
-a {
-  color: orange
-}
+a { color: orange }
+a:visited { color: green; }
+a:hover { text-decoration: none; }
 
-a:visited {
-  color: green;
-}
-
-a:hover {
-  text-decoration: none;
-}
-
-.container:first-child {
-  font-size: 150%;
-}
-
-.container:first-line {
-  color: red;
-}
+.container:first-child { font-size: 150%; }
+.container:first-line { color: red; }
 
 td:last-child {
   background-clor: #333;
