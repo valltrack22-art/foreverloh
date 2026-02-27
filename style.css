@@ -1,17 +1,7 @@
-
-.spesial {
-  backgrount-color: yellow;
+a {
+  color: orange
 }
 
-.alert {
-  border: 2px solid red;
-  
-}
-
-span[class*="stop"] {
-  background-color: green;
-}
-
-span[class*="go"] {
-  background-color: red;
+a:visited {
+  color: green;
 }
