@@ -10,6 +10,6 @@ a:hover {
   text-decoration: none;
 }
 
-article p:first-child {
+.container:first-child {
   font-size: 150%;
 }
