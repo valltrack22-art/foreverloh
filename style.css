@@ -1,2 +1,2 @@
-div p::last-child { color: red; }
+div p::after { color: red; }
 
