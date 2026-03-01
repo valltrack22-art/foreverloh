@@ -3,5 +3,5 @@ p:nth-of-type(1) {
 }
 
 .list > :child {
- border-bottom: 1px solid gray;
+ border-top: 1px solid gray;
 }
