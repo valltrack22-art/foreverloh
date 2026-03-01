@@ -1,5 +1,5 @@
 a { border: 5px solid grey; }
 
-a + title {
+a title {
   border-color: pink
 }
